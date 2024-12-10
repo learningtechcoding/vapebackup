@@ -1,0 +1,5 @@
+[14-Nov-2024 05:27:54 UTC] PHP Fatal error:  Trait "App\Http\Controllers\Illuminate\Support\Facades\Http" not found in /home/rahhimdesigns/public_html/app/Http/Controllers/ContactController.php on line 12
+[14-Nov-2024 05:28:42 UTC] PHP Fatal error:  Trait "App\Http\Controllers\Illuminate\Support\Facades\Http" not found in /home/rahhimdesigns/public_html/app/Http/Controllers/ContactController.php on line 12
+[15-Nov-2024 14:41:12 UTC] PHP Fatal error:  Cannot declare class App\Http\Controllers\LoginController, because the name is already in use in /home/rahhimdesigns/public_html/app/Http/Controllers/Auth/LoginController.php on line 9
+[16-Nov-2024 08:20:50 UTC] PHP Fatal error:  Cannot use App\Models\Contact as Contact because the name is already in use in /home/rahhimdesigns/public_html/app/Http/Controllers/ContactController.php on line 12
+[16-Nov-2024 17:37:46 UTC] PHP Fatal error:  Cannot use Illuminate\Support\Facades\Auth as Auth because the name is already in use in /home/rahhimdesigns/public_html/app/Http/Controllers/ContactController.php on line 13
